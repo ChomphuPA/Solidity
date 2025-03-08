@@ -5,7 +5,7 @@
  }
  ถ้าผู้เล่นอีกฝ่ายไม่ทำการเลือกภายใน 30 นาที ผู้เล่นที่เลือกจะได้เงิน
 
-#อธิบายโค้ดส่วนที่ทำการซ่อน choice และ commit
+# อธิบายโค้ดส่วนที่ทำการซ่อน choice และ commit
  mapping (address => uint) private  player_choice; 
  เปลี่ยนจาก public player_choice เป็น private
 
